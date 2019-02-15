@@ -20,11 +20,6 @@ except ImportError:
 import os
 import sys
 
-"""
-%pylab inline
-pl.rc('font', size=15)
-"""
-
 # Check to make sure name of python script, API key, and bus line are entered
 if not len(sys.argv) == 3:
     print ("Invalid number of arguments. Run as: python <MTA_KEY> <BUS_LINE>")
