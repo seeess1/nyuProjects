@@ -1,4 +1,4 @@
-## Project Overview
+## Overview
 
 This repo contains several projects I completed during my first semester at NYU CUSP's Masters Program in Applied Urban Science & Informatics. I used open data and common Python libraries like pandas and numpy to analyze school performance, MTA bus routes, CitiBike rides, and more. 
 
